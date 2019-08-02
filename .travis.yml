@@ -24,4 +24,4 @@ after_success:
 
 env:
  global:
-   - GH_REF: github.com/abu0418/blog.git
+   - GH_REF: github.com/abu0418/abu0418.github.io.git
